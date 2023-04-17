@@ -1,0 +1,3 @@
+[submodule "JoystickShield"]
+	path = JoystickShield
+	url = https://github.com/sudar/JoystickShield.git
