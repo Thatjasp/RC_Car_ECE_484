@@ -14,7 +14,11 @@ Using the joystick on the shield, it will move the RC car forward, back, left, a
 Using the Joystick library, All of the buttons have a callback function when a they are pressed or when the joystick is moved. In these callback functions an intenger is sent through the NRF transciever. This is done without acknowledgment that the RC car has received the packet.
 ![Joystick Shield](img/Joystick_shield.jpg)
 ## RC Car
-When the RC car receives the payload, it will interpret this payload into an action the RC Car has to execute. The 5 functions the RC Car can execute is go forward, backward, left, right, and stop. Each one is executed by the joystick except stop, this is executed by the right button on the module. The L298N module is used to drive these dc motor and the pins on the arduino are used to control this module. 
+When the RC car receives the payload, it will interpret this payload into an action the RC Car has to execute. The 5 functions the RC Car can execute is go forward, backward, left, right, and stop. 
+
+Each one is executed by the joystick except stop, this is executed by the right button on the module. The L298N module is used to drive these dc motor and the pins on the arduino are used to control this module. 
 ## Body Design
-The body design of the RC Car is build by a cardboard body. The project being back heavy, due to the battery pack being on the back of the car it leads to the front tires not have enough weight to weigh it down. Sometimes the tires may not be able grip the ground and the car may have trouble turning, but with some minor adjustments the design can be improved upon. This is not the only design these components can used with. 
+The body design of the RC Car is build by a cardboard body. The project being back heavy, due to the battery pack being on the back of the car it leads to the front tires not have enough weight to weigh it down. 
+
+    Sometimes the tires may not be able grip the ground and the car may have trouble turning, but with some minor adjustments the design can be improved upon. This is not the only design these components can used with. 
 ![RC_Car](img/RC_Car.jpg)
