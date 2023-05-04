@@ -20,5 +20,5 @@ Each one is executed by the joystick except stop, this is executed by the right 
 ## Body Design
 The body design of the RC Car is build by a cardboard body. The project being back heavy, due to the battery pack being on the back of the car it leads to the front tires not have enough weight to weigh it down. 
 
-    Sometimes the tires may not be able grip the ground and the car may have trouble turning, but with some minor adjustments the design can be improved upon. This is not the only design these components can used with. 
+Sometimes the tires may not be able grip the ground and the car may have trouble turning, but with some minor adjustments the design can be improved upon. This is not the only design these components can used with. 
 ![RC_Car](img/RC_Car.jpg)
